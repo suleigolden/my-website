@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: my-website
+    env: node
+    buildCommand: yarn build
+    startCommand: yarn preview
+    envVars:
+      - key: NODE_VERSION
+        value: 22.22.0
