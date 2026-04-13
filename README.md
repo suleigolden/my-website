@@ -1,3 +1,7 @@
+#Full-Stack AI Prompt Web Development Course 2026
+This project is based on my Ultimate Full-Stack AI Prompt and Vibe coding Web Development 2026 Course on Udemy.
+https://www.udemy.com/course/full-stack-ai-promptvibe-coding-developer-from-zero-to-pro/
+
 # Portfolio Website
 
 A modern and responsive portfolio website for a Full Stack Software Engineer built with React and CSS.
